@@ -17,7 +17,7 @@ function addData(data){
   content.className = "content-element";
   image.src = dat.image;
   title.innerHTML = dat.name;
-  para.innerHTML = dat.price;
+  para.innerHTML = dat.price+" $";
 
   content.append(image, title, para);
   getProduct.append(content);

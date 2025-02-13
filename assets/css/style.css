@@ -45,22 +45,3 @@ header {
  border-radius: 50%;
  font-weight: 600;
 }
-
-.product {
- display: grid;
- grid-template-rows: repeat(3, 30%);
- grid-template-columns: repeat(4, 1fr);
- gap: 15px;
-}
-
-.content-element {
- display: flex;
- flex-direction: column;
- justify-content: center;
- align-items: center;
- gap: 15px;
-}
-
-.content-element .img {
- width: 10px;
-}
