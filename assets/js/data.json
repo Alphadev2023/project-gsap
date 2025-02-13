@@ -1,0 +1,80 @@
+[
+ {
+  "id": 1,
+  "name": "Airpod",
+  "image": "../images/airpod.png",
+  "price": 25
+ },
+ {
+  "id": 2,
+  "name": "Chanel",
+  "image": "../images/chanel.png",
+  "price": 150
+ },
+ {
+  "id": 3,
+  "name": "Cocco",
+  "image": "../images/cocco.png",
+  "price": 260
+ },
+ {
+  "id": 4,
+  "name": "Gamer",
+  "image": "../images/gamer.png",
+  "price": 1550
+ },
+ {
+  "id": 5,
+  "name": "Huawei",
+  "image": "../images/huawei.png",
+  "price": 250
+ },
+ {
+  "id": 6,
+  "name": "iPhone",
+  "image": "../images/iphone.png",
+  "price": 1300
+ },
+ {
+  "id": 7,
+  "name": "Macbook",
+  "image": "../images/mackbook.png",
+  "price": 2100
+ },
+ {
+  "id": 8,
+  "name": "Rolex",
+  "image": "../images/montre1.png",
+  "price": 250
+ },
+ {
+  "id": 9,
+  "name": "Luxe",
+  "image": "../images/montre2.png",
+  "price": 280
+ },
+ {
+  "id": 10,
+  "name": "Riche",
+  "image": "../images/montre2.png",
+  "price": 300
+ },
+ {
+  "id": 12,
+  "name": "Pixi",
+  "image": "../images/pixi.png",
+  "price": 180
+ },
+ {
+  "id": 13,
+  "name": "Samsung",
+  "image": "../images/samsung.png",
+  "price": 500
+ },
+ {
+  "id": 14,
+  "name": "Tablette",
+  "image": "../images/tablette.png",
+  "price": 250
+ }
+]
