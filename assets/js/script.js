@@ -19,7 +19,7 @@ function addData(data){
   title.innerHTML = dat.name;
   para.innerHTML = dat.price;
 
-  content.append(image, title, price);
+  content.append(image, title, para);
   getProduct.append(content);
  }
 }
